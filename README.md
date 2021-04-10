@@ -1,6 +1,6 @@
 Hi there, I'm [Arrow](http://note.arrow-zb.cn/)! 👋
 
-Hi, I'm Arrow, a happy, never give up, professional front-end engineer
+Hi, I'm Arrow, a happy, persistent, professional front-end engineer
 
 - 📈 my study notes: [arrow's note](http://note.arrow-zb.cn/)
 - 📝 blog: [arrow's csdn](https://arrow.blog.csdn.net/)
