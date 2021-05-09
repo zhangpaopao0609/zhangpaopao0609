@@ -8,4 +8,4 @@ Hi, I'm Ardor Zhang, a happy, persistent, professional front-end engineer
 - 🌱 I’m currently learning `ts` and `vue3.x`
 - 🤔 I’m looking for help with amazing
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrow-zb&layout=compact)](http://note.arrow-zb.cn/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardor-zhang&layout=compact)](http://note.arrow-zb.cn/)
