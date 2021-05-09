@@ -1,10 +1,10 @@
-Hi there, I'm [Arrow](http://note.arrow-zb.cn/)! 👋
+Hi there, I'm [Ardor Zhang](http://note.arrow-zb.cn/)! 👋
 
-Hi, I'm Arrow, a happy, persistent, professional front-end engineer
+Hi, I'm Ardor Zhang, a happy, persistent, professional front-end engineer
 
-- 📈 my study notes: [arrow's note](http://note.arrow-zb.cn/)
-- 📝 blog: [arrow's csdn](https://arrow.blog.csdn.net/)
-- 📮 email: arrow_zb@outlook.com
+- 📈 my study notes: [ardor's note](http://note.arrow-zb.cn/)
+- 📝 blog: [ardor's csdn](https://arrow.blog.csdn.net/)
+- 📮 email: ardor-zhang@outlook.com
 - 🌱 I’m currently learning `ts` and `vue3.x`
 - 🤔 I’m looking for help with amazing
 
