@@ -1,0 +1,24 @@
+{
+  "name": "zhangpaopao0609",
+  "version": "1.0.0",
+  "description": "今天是 2022 年 8 月 25 日，又是充满希望的一天，让我们一起大步迈向前！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangpaopao0609/zhangpaopao0609.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangpaopao0609/zhangpaopao0609/issues"
+  },
+  "homepage": "https://github.com/zhangpaopao0609/zhangpaopao0609#readme",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "axios": "^0.27.2"
+  }
+}
