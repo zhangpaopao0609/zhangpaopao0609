@@ -5,7 +5,7 @@
 
 <img
   src="https://media.giphy.com/media/Grwq4Z2Q41bVbAQJc5/giphy.gif"
-  width="100"
+  width="140"
   alt="day"
 />
 
@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <h3>我这个人</h3>
+  <h2>我这个人</h2>
   <ul>
     <li>🖐️ 哈喽，我是张跑跑</li>
     <li>👨‍💻 一个小小的程序猿</li>
@@ -26,13 +26,13 @@
 </div>
 
 <div>
-  <h3>我的社交</h3>
+  <h2>我的社交</h2>
   <table>
     <thead align="left">
       <tr>
         <th width="150">平台</th>
         <th>主要做啥</th>
-        <th>我有啥</th>
+        <th>状态</th>
       </tr>
     </thead>
     <tbody>
@@ -48,8 +48,13 @@
         </td>
         <td>
           <p>录制了一些视频</p>
+          <ul>
+            <li>vue3.2 详细教程</li>
+            <li>JavaScript 手写轮子系列</li>
+            <li>用JavaScript 来学《算法4》</li>
+          </ul>
         </td>
-        <td>111</td>
+        <td>持续录制中，近期主要录制算法</td>
       </tr>
       <tr>
         <td>
@@ -63,8 +68,28 @@
         </td>
         <td>
           <p>写了一些文章</p>
+          <ul>
+            <li>记录一下有趣的知识</li>
+            <li>总结自己的学习和生活</li>
+            <li>面试记录</li>
+          </ul>
         </td>
-        <td>111</td>
+        <td>会一直写下去的，不停</td>
+      </tr>
+      <tr>
+        <td>
+          <a href="#" target="_blank">
+            <img style="width: 100%" src="./src/img/social/gzh.jpg" alt="gzh" />
+          </a>
+        </td>
+        <td>
+          <p>算是一个小惊喜</p>
+          <ul>
+            <li>发发自己的状态</li>
+            <li>一个和大家聚集的方式</li>
+          </ul>
+        </td>
+        <td>希望自己能持续的做吧</td>
       </tr>
     </tbody>
   </table>
@@ -85,9 +110,14 @@
     </thead>
     <tbody>
       <tr>
-        <td>暂无</td>
-        <td>《手写轮子》</td>
+        <td>设计中...</td>
+        <td>《手写 JavaScript 轮子》</td>
         <td>一起来手写前端的轮子</td>
+      </tr>
+      <tr>
+        <td>设计中...</td>
+        <td>用 JavaScript 来学《算法4》</td>
+        <td>算法可谓程序猿必备技能，一起来用 JavaScript 来学《算法4》</td>
       </tr>
     </tbody>
   </table>
@@ -107,7 +137,23 @@
     </thead>
     <tbody>
       <tr>
-        <td>暂无</td>
+        <td>
+          <a
+            href="https://github.com/zhangpaopao0609/format-import"
+            target="_blank"
+            >format-import</a
+          >
+        </td>
+        <td>vscode 插件，用于规范项目中模块引用方法、组件</td>
+      </tr>
+      <tr>
+        <td>
+          <a
+            href="https://github.com/zhangpaopao0609/magic-wheel"
+            target="_blank"
+            >magic-wheel</a
+          >
+        </td>
         <td>手写轮子配套代码</td>
       </tr>
     </tbody>
