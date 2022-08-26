@@ -1,9 +1,7 @@
 <img
   src="https://visitor-badge.glitch.me/badge?page_id=zhangpaopao0609"
   alt="visitor badge"
-/>
-
-{{each languageBadges}}<img src="{{$value.url}}" alt="{{$value.name}}"/>&nbsp;&nbsp;{{/each}}
+/>{{each languageBadges}}<img src="{{$value.url}}" alt="{{$value.name}}"/>&nbsp;&nbsp;{{/each}}
 
 <img
   src="https://media.giphy.com/media/Grwq4Z2Q41bVbAQJc5/giphy.gif"
