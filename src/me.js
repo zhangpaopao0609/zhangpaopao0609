@@ -21,7 +21,7 @@ const mySocial = [
         '<a href="https://space.bilibili.com/1886509243/channel/collectiondetail?sid=607494&ctype=0" target="_blank">用JavaScript 来学《算法4》</a>',
       ],
     },
-    status: "持续录制中，近期主要录制算法",
+    status: "持续录制中，近期主要录制算法4系列",
   },
   {
     platform: {

@@ -47,7 +47,7 @@
             <li><a href="https://space.bilibili.com/1886509243/channel/collectiondetail?sid=77008&ctype=0" target="_blank">vue3.2 详细教程</a></li><li><a href="https://space.bilibili.com/1886509243/channel/collectiondetail?sid=104738&ctype=0" target="_blank">JavaScript 手写轮子系列</a></li><li><a href="https://space.bilibili.com/1886509243/channel/collectiondetail?sid=607494&ctype=0" target="_blank">用JavaScript 来学《算法4》</a></li>
           </ul>
         </td>
-        <td>持续录制中，近期主要录制算法</td>
+        <td>持续录制中，近期主要录制算法4系列</td>
       </tr><tr>
         <td>
           <a href="https://arrow.blog.csdn.net/" target="_blank">
