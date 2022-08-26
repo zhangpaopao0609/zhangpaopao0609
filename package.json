@@ -1,10 +1,10 @@
 {
   "name": "zhangpaopao0609",
-  "version": "1.0.0",
-  "description": "今天是 2022 年 8 月 25 日，又是充满希望的一天，让我们一起大步迈向前！",
+  "version": "0.0.1",
+  "description": "zhangpaopao0609",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node src/index.js"
   },
   "repository": {
     "type": "git",
