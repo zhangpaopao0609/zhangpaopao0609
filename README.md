@@ -81,7 +81,7 @@
             <li>发发自己的状态</li><li>一个和大家聚集的方式</li>
           </ul>
         </td>
-        <td>希望自己能持续的做吧</td>
+        <td>希望自己能持续的做下去吧</td>
       </tr>
     </tbody>
   </table>
@@ -106,7 +106,7 @@
         <td>设计中...</td>
         <td>《手写 JavaScript 轮子》</td>
         <td>一起来手写前端的轮子</td>
-        <td>暂时停了，不过在准备再写新的了</td>
+        <td>第一期已完成，目前在准备第二期了</td>
       </tr><tr>
         <td>设计中...</td>
         <td><a href="https://alg.linlove.cn/" target="_blank">用 JavaScript 来学《算法4》</a></td>
