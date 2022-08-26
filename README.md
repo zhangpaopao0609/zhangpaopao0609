@@ -6,7 +6,7 @@
 <img src="./src/img/love/day.gif" height="140" alt="day" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./src/img/love/naruto.gif" height="140" alt="naruto" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./src/img/love/onepiece.gif" height="140" alt="onepiece" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div style="display: flex; align-items: center">
-  今天是 2022 年 8 月 26 日，又是充满希望的一天，让我们一起大步迈向前！
+  今天是 2022 年 8 月 27 日，又是充满希望的一天，让我们一起大步迈向前！
 </div>
 
 <div>
