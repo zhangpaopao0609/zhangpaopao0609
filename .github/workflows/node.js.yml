@@ -5,7 +5,7 @@ name: Generate README.md
 
 on:
   push: # push trigger
-    branches: [master]
+    branches: [main]
   schedule: # schedule trigger at 00:30
     - cron: "30 16 * * *"
 
