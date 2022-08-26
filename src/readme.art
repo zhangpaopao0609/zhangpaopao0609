@@ -1,0 +1,106 @@
+<img
+  src="https://visitor-badge.glitch.me/badge?page_id=zhangpaopao0609"
+  alt="visitor badge"
+/>
+
+<img
+  src="https://media.giphy.com/media/Grwq4Z2Q41bVbAQJc5/giphy.gif"
+  width="140"
+  alt="day"
+/>
+
+<div style="display: flex; align-items: center">
+  今天是 {{day}}，又是充满希望的一天，让我们一起大步迈向前！
+</div>
+
+<div>
+  <h2>我这个人</h2>
+  <ul>
+    {{each aboutMe}}<li>{{$value.icon}} {{$value.desc}}</li>{{/each}}
+  </ul>
+</div>
+
+<div>
+  <h2>我的社交</h2>
+  <table>
+    <thead align="left">
+      <tr>
+        <th width="150">平台</th>
+        <th>主要做啥</th>
+        <th>状态</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{each mySocial}}<tr>
+        <td>
+          <a href="{{$value.platform.href}}" target="_blank">
+            <img
+              style="width: 100%"
+              src="{{$value.platform.img}}"
+              alt="{{$value.platform.alt}}"
+            />
+          </a>
+        </td>
+        <td>
+          <p>{{$value.detail.title}}</p>
+          <ul>
+            {{each $value.detail.desc}}<li>{{@ $value}}</li>{{/each}}
+          </ul>
+        </td>
+        <td>{{$value.status}}</td>
+      </tr>{{/each}}
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h2>我的小笔记</h2>
+  <h4>
+    因为挺喜欢总结和记录的，所有当某个点有了一些内容后，我就喜欢把它整理然后写成一本书，这样既可以分享又可以很好的查找
+  </h4>
+  <table>
+    <thead align="center">
+      <tr>
+        <th>封面</th>
+        <th>书名</th>
+        <th>摘要</th>
+        <th>状态</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{each myBooks}}<tr>
+        <td>{{ $value.cover }}</td>
+        <td>{{@ $value.name }}</td>
+        <td>{{ $value.abstract }}</td>
+        <td>{{ $value.status }}</td>
+      </tr>{{/each}}
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h2>我的小项目</h2>
+  <h4>
+    写了很多有趣的项目，有的挺成型的，有的也就是个 demo，不过都是一点点写出来的
+  </h4>
+  <table>
+    <thead align="center">
+      <tr>
+        <th>项目名</th>
+        <th>简述</th>
+        <th>状态</th>
+      </tr>
+    </thead>
+    <tbody>
+    {{each myProject}}<tr>
+        <td>
+          <a href="{{ $value.href }}" target="_blank" >
+            {{ $value.name }}
+          </a>
+        </td>
+        <td>{{ $value.desc }}</td>
+        <td>{{ $value.status }}</td>
+      </tr>{{/each}}
+    </tbody>
+  </table>
+</div>

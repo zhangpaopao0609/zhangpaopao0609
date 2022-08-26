@@ -3,10 +3,12 @@ lockfileVersion: 5.3
 specifiers:
   art-template: ^4.13.2
   axios: ^0.27.2
+  dayjs: ^1.11.5
 
 dependencies:
   art-template: 4.13.2
   axios: 0.27.2
+  dayjs: 1.11.5
 
 packages:
 
@@ -70,6 +72,10 @@ packages:
 
   /commander/2.19.0:
     resolution: {integrity: sha512-6tvAOO+D6OENvRAh524Dh9jcfKTYDQAqvqezbCW82xj5X0pSrcpxtvRKHLG0yBY6SD7PSDrJaj+0AiOcKVd1Xg==}
+    dev: false
+
+  /dayjs/1.11.5:
+    resolution: {integrity: sha512-CAdX5Q3YW3Gclyo5Vpqkgpj8fSdLQcRuzfX6mC6Phy0nfJ0eGYOeS7m4mt2plDWLAtA4TqTakvbboHvUxfe4iA==}
     dev: false
 
   /deep-is/0.1.4:

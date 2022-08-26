@@ -4,7 +4,7 @@ const bingPrefixUrl = "https://www.bing.com";
 const whichOne = 3;
 const imageInfoUrl = `${bingPrefixUrl}/HPImageArchive.aspx?format=js&idx=0&n=${whichOne}`;
 
-const getBingPicture = async () => {
+async function getBingPicture() {
   try {
     const {
       data: { images },
@@ -15,6 +15,6 @@ const getBingPicture = async () => {
   } catch (error) {
     console.error(error);
   }
-};
+}
 
 module.exports = getBingPicture;
