@@ -121,8 +121,8 @@
   <table>
     <thead align="center">
       <tr>
-        <th>封面</th>
-        <th>书名</th>
+        <th width="100">封面</th>
+        <th width="260">书名</th>
         <th>摘要</th>
         <th>状态</th>
       </tr>
