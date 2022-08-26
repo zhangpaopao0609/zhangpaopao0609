@@ -3,12 +3,7 @@
   alt="visitor badge"
 />
 
-{{each languageBadges}}
-<img
-  src="{{$value.url}}"
-  alt="{{$value.name}}"
-/>
-{{/each}}
+{{each languageBadges}}<img src="{{$value.url}}" alt="{{$value.name}}"/>&nbsp;&nbsp;{{/each}}
 
 <img
   src="https://media.giphy.com/media/Grwq4Z2Q41bVbAQJc5/giphy.gif"
