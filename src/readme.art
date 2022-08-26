@@ -3,11 +3,7 @@
   alt="visitor badge"
 />&nbsp;&nbsp;{{each languageBadges}}<img src="{{$value.url}}" alt="{{$value.name}}"/>&nbsp;&nbsp;{{/each}}
 
-<img
-  src="https://media.giphy.com/media/Grwq4Z2Q41bVbAQJc5/giphy.gif"
-  width="140"
-  alt="day"
-/>
+{{each love}}<img src="{{$value.src}}" height="140" alt="{{$value.alt}}" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{/each}}
 
 <div style="display: flex; align-items: center">
   今天是 {{day}}，又是充满希望的一天，让我们一起大步迈向前！
