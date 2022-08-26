@@ -62,7 +62,7 @@
     <thead align="center">
       <tr>
         <th width="100">封面</th>
-        <th width="150">书名</th>
+        <th width="250">书名</th>
         <th>摘要</th>
         <th>状态</th>
       </tr>
