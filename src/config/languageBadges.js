@@ -37,4 +37,4 @@ const languageBadges = [
   },
 ];
 
-module.exports = languageBadge;
+module.exports = languageBadges;
