@@ -32,12 +32,11 @@ jobs:
       - name: Generate README.md
         run: npm run build --if-present
 
-      - name: Commit files
-        run: |
-          git config --local user.email "zhangpaopao0609@gmail.com"
-          git config --local user.name "zhangpaopao"
-          git commit -m "update readme" -a
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_email: zhangpaopao0609@gmail.com
+          author_name: zhangpaopao
+          message: update readme
       
