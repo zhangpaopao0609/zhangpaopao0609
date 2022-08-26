@@ -5,33 +5,48 @@
 
 
 <img
-  src="https://visitor-badge.glitch.me/badge?page_id=zhangpaopao0609"
-  alt="visitor badge"
+  src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&#38;logo=typescript&#38;logoColor=white"
+  alt="TypeScript"
 />
 
 <img
-  src="https://visitor-badge.glitch.me/badge?page_id=zhangpaopao0609"
-  alt="visitor badge"
+  src="https://img.shields.io/badge/Vue.js-35495E?style=flat&#38;logo=vue.js&#38;logoColor=4FC08"
+  alt="Vue"
 />
 
 <img
-  src="https://visitor-badge.glitch.me/badge?page_id=zhangpaopao0609"
-  alt="visitor badge"
+  src="https://img.shields.io/badge/React-20232A?style=flat&#38;logo=react&#38;logoColor=61DAFB"
+  alt="React"
 />
 
 <img
-  src="https://visitor-badge.glitch.me/badge?page_id=zhangpaopao0609"
-  alt="visitor badge"
+  src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&#38;logo=nestjs&#38;logoColor=white"
+  alt="NestJS"
 />
 
 <img
-  src="https://visitor-badge.glitch.me/badge?page_id=zhangpaopao0609"
-  alt="visitor badge"
+  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&#38;logo=html5&#38;logoColor=white"
+  alt="HTML"
 />
 
 <img
-  src="https://visitor-badge.glitch.me/badge?page_id=zhangpaopao0609"
-  alt="visitor badge"
+  src="https://img.shields.io/badge/CSS3-1572B6?style=flat&#38;logo=css3&#38;logoColor=white"
+  alt="CSS"
+/>
+
+<img
+  src="https://img.shields.io/badge/Sass-CC6699?style=flat&#38;logo=sass&#38;logoColor=white"
+  alt="Scss"
+/>
+
+<img
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&#38;logo=javascript&#38;logoColor=black"
+  alt="JavaScript"
+/>
+
+<img
+  src="https://img.shields.io/badge/Node.js-43853D?style=flat&#38;logo=node.js&#38;logoColor=white"
+  alt="NodeJS"
 />
 
 
