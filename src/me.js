@@ -45,7 +45,7 @@ const mySocial = [
       title: "算是一个小惊喜",
       desc: ["发发自己的状态", "一个和大家聚集的方式"],
     },
-    status: "希望自己能持续的做吧",
+    status: "希望自己能持续的做下去吧",
   },
 ];
 
@@ -54,7 +54,7 @@ const myBooks = [
     cover: "设计中...",
     name: "《手写 JavaScript 轮子》",
     abstract: "一起来手写前端的轮子",
-    status: "暂时停了，不过在准备再写新的了",
+    status: "第一期已完成，目前在准备第二期了",
   },
   {
     cover: "设计中...",
