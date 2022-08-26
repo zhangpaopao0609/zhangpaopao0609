@@ -4,10 +4,10 @@
 name: Generate README.md
 
 on:
-  push:  # push trigger
-    branches: [ master ]
+  push: # push trigger
+    branches: [master]
   schedule: # schedule trigger at 00:30
-    - cron: '30 16 * * *'
+    - cron: "30 16 * * *"
 
 jobs:
   build:
@@ -17,17 +17,18 @@ jobs:
       - name: Set Tone
         uses: szenius/set-timezone@v1.0
         with:
-          timezoneLinux: 'Asia/Shanghai'
+          timezoneLinux: "Asia/Shanghai"
           timezoneMacos: "Asia/Shanghai"
           timezoneWindows: "Asia/Shanghai"
-            - name: Checkout
+
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Set Env
         uses: actions/setup-node@v3
         with:
-          node-version: '16.x'
-          cache: 'pnpm'
+          node-version: "16.x"
+          cache: "pnpm"
 
       - name: Install
         run: pnpm install
