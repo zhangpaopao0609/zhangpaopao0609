@@ -3,19 +3,7 @@
   alt="visitor badge"
 />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&#38;logo=typescript&#38;logoColor=white" alt="TypeScript"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&#38;logo=vue.js&#38;logoColor=4FC08" alt="Vue"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=flat&#38;logo=react&#38;logoColor=61DAFB" alt="React"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&#38;logo=nestjs&#38;logoColor=white" alt="NestJS"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&#38;logo=html5&#38;logoColor=white" alt="HTML"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&#38;logo=css3&#38;logoColor=white" alt="CSS"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&#38;logo=sass&#38;logoColor=white" alt="Scss"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&#38;logo=javascript&#38;logoColor=black" alt="JavaScript"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&#38;logo=node.js&#38;logoColor=white" alt="NodeJS"/>&nbsp;&nbsp;
 
-<img
-  src="./src/img/love/day.gif"
-  height="140"
-  alt="day"
-/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-  src="https://media.giphy.com/media/DoHRW685Y1gru/giphy.gif"
-  height="140"
-  alt="day"
-/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-  src="https://media.giphy.com/media/WeyqDp1shHe7u/giphy.gif"
-  height="140"
-  alt="day"
-/>
+<img src="./src/img/love/day.gif" height="140" alt="day" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./src/img/love/naruto.gif" height="140" alt="naruto" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./src/img/love/onepiece.gif" height="140" alt="onepiece" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div style="display: flex; align-items: center">
   今天是 2022 年 8 月 26 日，又是充满希望的一天，让我们一起大步迈向前！
