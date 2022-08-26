@@ -10,8 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/zhangpaopao0609/zhangpaopao0609.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "zhangpaopao0609"
+  ],
+  "author": "zhangpaopao0609",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zhangpaopao0609/zhangpaopao0609/issues"
