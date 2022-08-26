@@ -49,9 +49,27 @@
         <td>
           <p>录制了一些视频</p>
           <ul>
-            <li>vue3.2 详细教程</li>
-            <li>JavaScript 手写轮子系列</li>
-            <li>用JavaScript 来学《算法4》</li>
+            <li>
+              <a
+                href="https://space.bilibili.com/1886509243/channel/collectiondetail?sid=77008&ctype=0"
+                target="_blank"
+                >vue3.2 详细教程</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://space.bilibili.com/1886509243/channel/collectiondetail?sid=104738&ctype=0"
+                target="_blank"
+                >JavaScript 手写轮子系列</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://space.bilibili.com/1886509243/channel/collectiondetail?sid=607494&ctype=0"
+                target="_blank"
+                >用JavaScript 来学《算法4》</a
+              >
+            </li>
           </ul>
         </td>
         <td>持续录制中，近期主要录制算法</td>
@@ -74,7 +92,7 @@
             <li>面试记录</li>
           </ul>
         </td>
-        <td>会一直写下去的，不停</td>
+        <td>会一直写下去的，惟愿马不停蹄，手不停笔</td>
       </tr>
       <tr>
         <td>
@@ -106,6 +124,7 @@
         <th>封面</th>
         <th>书名</th>
         <th>摘要</th>
+        <th>状态</th>
       </tr>
     </thead>
     <tbody>
@@ -113,11 +132,17 @@
         <td>设计中...</td>
         <td>《手写 JavaScript 轮子》</td>
         <td>一起来手写前端的轮子</td>
+        <td>暂时停了，不过在准备再写新的了</td>
       </tr>
       <tr>
         <td>设计中...</td>
-        <td>用 JavaScript 来学《算法4》</td>
+        <td>
+          <a href="https://alg.linlove.cn/" target="_blank"
+            >用 JavaScript 来学《算法4》</a
+          >
+        </td>
         <td>算法可谓程序猿必备技能，一起来用 JavaScript 来学《算法4》</td>
+        <td>持续中</td>
       </tr>
     </tbody>
   </table>
@@ -133,6 +158,7 @@
       <tr>
         <th>项目名</th>
         <th>简述</th>
+        <th>状态</th>
       </tr>
     </thead>
     <tbody>
@@ -145,6 +171,7 @@
           >
         </td>
         <td>vscode 插件，用于规范项目中模块引用方法、组件</td>
+        <td>已发布到市场，可以使用</td>
       </tr>
       <tr>
         <td>
@@ -155,6 +182,7 @@
           >
         </td>
         <td>手写轮子配套代码</td>
+        <td>跟随轮子一起转</td>
       </tr>
     </tbody>
   </table>
