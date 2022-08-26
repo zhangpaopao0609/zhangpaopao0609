@@ -1,5 +1,6 @@
 const path = require("path");
 const fs = require("fs");
+const languageBadges = require("./config/languageBadges.js");
 
 function generateReadme() {
   const artTemplate = require("art-template");
@@ -11,6 +12,7 @@ function generateReadme() {
 
   const html = artTemplate(resolve("./readme.art"), {
     day: dayjs().format("YYYY 年 M 月 D 日"),
+    languageBadges,
     ...me,
   });
 
