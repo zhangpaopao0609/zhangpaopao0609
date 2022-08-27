@@ -12,7 +12,7 @@
 <div>
   <h2>我这个人</h2>
   <ul>
-    {{each aboutMe}}<li>{{$value.icon}}  {{$value.desc}}</li>{{/each}}
+    {{each aboutMe}}<li>{{$value.icon}}&nbsp;&nbsp;{{$value.desc}}</li>{{/each}}
   </ul>
 </div>
 
