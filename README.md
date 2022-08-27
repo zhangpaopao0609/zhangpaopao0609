@@ -12,7 +12,7 @@
 <div>
   <h2>我这个人</h2>
   <ul>
-    <li>🖐️  哈喽，我是张跑跑</li><li>📝  喜欢总结，热衷分享</li><li>🌱  持续学习，茁壮成长</li><li>🏋️  热爱健身，撸铁小伙</li><li>🏖️  认真工作，认真生活</li>
+    <li>🖐️&nbsp;&nbsp;哈喽，我是张跑跑</li><li>📝&nbsp;&nbsp;喜欢总结，热衷分享</li><li>🌱&nbsp;&nbsp;持续学习，茁壮成长</li><li>🏋️&nbsp;&nbsp;热爱健身，撸铁小伙</li><li>🏖️&nbsp;&nbsp;认真工作，认真生活</li>
   </ul>
 </div>
 
