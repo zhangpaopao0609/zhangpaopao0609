@@ -1,7 +1,4 @@
-<img
-  src="https://visitor-badge.glitch.me/badge?page_id=zhangpaopao0609"
-  alt="visitor badge"
-/>&nbsp;&nbsp;{{each languageBadges}}<img src="{{$value.url}}" alt="{{$value.name}}"/>&nbsp;&nbsp;{{/each}}
+{{each languageBadges}}<img src="{{$value.url}}" alt="{{$value.name}}"/>&nbsp;&nbsp;{{/each}}
 
 {{each love}}<img src="{{$value.src}}" height="140" alt="{{$value.alt}}" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{/each}}
 
