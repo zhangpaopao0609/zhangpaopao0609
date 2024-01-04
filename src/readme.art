@@ -6,7 +6,7 @@
 {{each love}}<img src="{{$value.src}}" height="140" alt="{{$value.alt}}" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{/each}}
 
 <div style="display: flex; align-items: center">
-  今天是 {{day}}，又是充满希望的一天，让我们一起大步迈向前！
+  今天又是充满希望的一天，让我们一起大步迈向前！
 </div>
 
 <div>

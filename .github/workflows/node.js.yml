@@ -1,42 +1,43 @@
 # This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: Generate README.md
+# name: Generate README.md
 
-on:
-  push: # push trigger
-    branches: [main]
-  schedule: # schedule trigger at 00:30
-    - cron: "30 16 * * *"
+# on:
+#   push: # push trigger
+#     branches: [main]
+#   schedule: # schedule trigger at 00:30
+#     - cron: "30 16 * * *"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     env:
+#       CI: false
+#     steps:
+#       - name: Set Timezone
+#         uses: szenius/set-timezone@v1.0
+#         with:
+#           timezoneLinux: "Asia/Shanghai"
+#           timezoneMacos: "Asia/Shanghai"
+#           timezoneWindows: "Asia/Shanghai"
 
-    steps:
-      - name: Set Timezone
-        uses: szenius/set-timezone@v1.0
-        with:
-          timezoneLinux: "Asia/Shanghai"
-          timezoneMacos: "Asia/Shanghai"
-          timezoneWindows: "Asia/Shanghai"
+#       - name: Checkout
+#         uses: actions/checkout@v3
 
-      - name: Checkout
-        uses: actions/checkout@v3
+#       - name: Install
 
-      - name: Install
-        run: |
-          npm install pnpm -g
-          pnpm install
+#         run: |
+#           npm install pnpm -g
+#           pnpm install
 
-      - name: Generate README.md
-        run: npm run build --if-present
+#       - name: Generate README.md
+#         run: npm run build --if-present
 
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          author_email: zhangpaopao0609@gmail.com
-          author_name: zhangpaopao
-          message: update readme
-      
+#       - name: Commit & Push changes
+#         uses: actions-js/push@master
+#         with:
+#           github_token: ${{ secrets.GITHUB_TOKEN }}
+#           author_email: zhangpaopao0609@gmail.com
+#           author_name: zhangpaopao
+#           message: update readme
